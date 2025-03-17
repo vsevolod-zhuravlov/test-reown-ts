@@ -1,0 +1,10 @@
+{
+    "networks": {
+        "sepolia": {
+            "address": "0x3BEb00e46663fE1EE352966B874145defeaCED9E"
+        },
+        "goerli": {
+            "address": "0x3BEb00e46663fE1EE352966B874145defeaCED9E"
+        }
+    }
+}
